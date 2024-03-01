@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+    color: black;
+}
+h1{
+    font-size: 50px;
+    color: white;
+    background-color: aqua;
+    text-align: center;
+    margin-top: 100px;
+}
+p{
+    color:black; 
+    
+}
+#p1{
+    color: #ff00ff;
+}
+span{
+    color: red;
+    font-size: 10px;
+    font-weight: 800;
+}
+button{
+    width: 200px;
+    height: 200px;
+    color:gray;
+    font-size: 50px;
+    border-radius: 50%;
+    box-shadow: 80px 80px 5px;
+    border: none;
+    position: absolute;
+    left: 500px;
+}
+button:hover{
+    background-color: aqua;
+    color: black;
+}
